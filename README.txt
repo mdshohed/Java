@@ -1,6 +1,7 @@
 **Open cmd window**
  type:
  ``java -version`` or `javac`
+ 
 If not download, we must have to download java jdk, given below download link
    - [java jdk](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html)
    **Then, We have to setup windows environment**
